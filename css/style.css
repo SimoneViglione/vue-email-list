@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
     background-color: black
 }
 
@@ -18,7 +19,7 @@ li {
     border-radius: 15px;
     border: solid 1px;
     list-style: none;
-    width: 250px;
+    width: 280px;
     margin: 1rem 0;
     background-color: rgb(38, 15, 38);
     color: white;
